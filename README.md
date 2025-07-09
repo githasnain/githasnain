@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  *Software Engineering Student | Python Enthusiast | AI Chatbot Developer 💬*
+  *Software Engineer | Python Enthusiast | AI Chatbot Developer 💬*
 
 </div>
 
@@ -22,9 +22,9 @@
 
 ## Goals 🌟
 
-🎓 I'm currently a Software Engineering student at KFUEIT (2021–2025), passionate about solving real-world problems through technology.  
-💭 I'm particularly interested in **FullStack** and **AI**.  
-📘 I'm a lifelong learner, always looking to improve my skills and build meaningful software.
+🎓 Software Engineering Graduate, passionate about solving real-world problems through technology.  
+💭 Particularly interested in **FullStack** and **AI**.  
+📘 Lifelong learner, always looking to improve my skills and build meaningful tools.
 
 ---
 
@@ -43,7 +43,7 @@
 ## Projects 🚀
 
 - 💬 **AI-Powered Mental Health Chatbot**  
-  → Developed using NLP and ML to assist users with mental health queries  
+  → Developed the frontend of chabot to assist users with mental health queries  
   → Final Year Project (2025)
 
 - 💽 **Database Management System**  
