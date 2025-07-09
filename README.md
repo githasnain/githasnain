@@ -23,7 +23,7 @@
 ## Goals 🌟
 
 🎓 I'm currently a Software Engineering student at KFUEIT (2021–2025), passionate about solving real-world problems through technology.  
-💭 I'm particularly interested in **AI**, **Chatbots**, and exploring **Cloud Computing**.  
+💭 I'm particularly interested in **FullStack** and **AI**.  
 📘 I'm a lifelong learner, always looking to improve my skills and build meaningful software.
 
 ---
