@@ -6,7 +6,7 @@
 
 ## About Me 🧑‍💻
 
-🌍 **Location**: Pakistan  
+🌍 **Location**: Lahore, Pakistan  
 📧 **Email**: hasnain.israrahmad@gmail.com  
 🔗 **LinkedIn**: [@hasnainhayder](https://linkedin.com/in/hasnainhayder)
 
@@ -48,8 +48,8 @@
 
 ## GitHub Stats 📈
 
-![Hasnain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasnainhayder&show_icons=true&theme=react&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainhayder&layout=compact&theme=react&hide_border=true)
+![Hasnain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=githasnain&show_icons=true&theme=react&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=githasnain&layout=compact&theme=react&hide_border=true)
 
 ---
 
