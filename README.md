@@ -8,7 +8,7 @@
 
   *Software Engineering Student | Python Enthusiast | AI Chatbot Developer 💬*
 
-<div align="center">
+</div>
 
   ---
 
