@@ -1,10 +1,10 @@
-<div align="center">
+
 # 👋 Hey, I'm Hasnain Haider
 
 *Software Engineering Student | Python Enthusiast | AI Chatbot Developer 💬*
 
 ---
-</div>
+
 ## About Me 🧑‍💻
 
 🌍 **Location**: Lahore, Pakistan  
