@@ -1,9 +1,16 @@
-
+<div align="center">
+  
 # 👋 Hey, I'm Hasnain Haider
 
-*Software Engineering Student | Python Enthusiast | AI Chatbot Developer 💬*
+</div>
 
----
+<div align="center">
+
+  *Software Engineering Student | Python Enthusiast | AI Chatbot Developer 💬*
+
+<div align="center">
+
+  ---
 
 ## About Me 🧑‍💻
 
@@ -47,10 +54,15 @@
 
 ---
 
-## GitHub Stats 📈
+<div align="center">
 
-![Hasnain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=githasnain&show_icons=true&theme=react&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=githasnain&layout=compact&theme=react&hide_border=true)
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=githasnain&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githasnain&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
+
 
 ---
 
