@@ -44,7 +44,7 @@
 
 - 💬 **AI-Powered Mental Health Chatbot**  
   → Developed the frontend of chabot to assist users with mental health queries  
-  → Final Year Project (2025)
+  → Final Year Project 
 
 - 💽 **Database Management System**  
   → SQL-based system with CRUD operations and user authentication
