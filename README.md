@@ -101,12 +101,18 @@ Postman • Linux • PowerShell • Jira • Agile • Docker (learning)
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=githasnain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="Hasnain's GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=githasnain&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+<!-- General Stats -->
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=githasnain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=12" alt="Hasnain's GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=githasnain&theme=tokyonight&hide_border=true&border_radius=10&date_format=j M Y" alt="GitHub Streak" />
+<!-- Top Languages -->
+<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=githasnain&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages" />
+
+<!-- Streak Stats (this one was missing because of caching/old service) -->
+<img height="180px" src="https://streak-stats.deno.dev?user=githasnain&theme=tokyonight&hide_border=true&border_radius=12&date_format=j M Y" alt="GitHub Streak" />
 
 </div>
 
