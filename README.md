@@ -92,15 +92,18 @@ Solo full-stack SaaS combining Slack + Jira
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=githasnain&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+<img height="180px" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=githasnain&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=githasnain&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+<img height="180px" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=githasnain&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img height="180px" src="https://streak-stats.demolab.com?user=githasnain&theme=tokyonight&hide_border=true&border_radius=12" />
+<img height="180px" src="https://streak-stats.demolab.com?user=githasnain&theme=tokyonight&hide_border=true" />
 
 </div>
+
 
 ---
 
