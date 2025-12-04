@@ -99,9 +99,15 @@ Postman • Linux • PowerShell • Jira • Agile • Docker (learning)
 ---
 ### 📊 GitHub Stats (Now Working!)
 
+### 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=githasnain&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Hasnain's GitHub Stats" width="55%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=githasnain&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=githasnain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" alt="Hasnain's GitHub stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=githasnain&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=githasnain&theme=tokyonight&hide_border=true&border_radius=10&date_format=j M Y" alt="GitHub Streak" />
+
 </div>
 
 <div align="center">
