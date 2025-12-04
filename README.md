@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Hasnain Haider  
 
-<i>Software Engineer | Full-Stack Developer | AI & Backend Specialist 🚀</i>
+<i>Software Engineer | Full-Stack Developer | Backend Developer 🚀</i>
 
 </div>
 
@@ -66,21 +66,21 @@ Passionate Full-Stack Engineer with strong expertise in **Python backend (FastAP
 
 ### **1. VertexHub – Project Management Platform**  
 Solo full-stack SaaS combining Slack + Jira  
-- **Next.js**, **FastAPI**, **PostgreSQL**  
+- **Next.js**, **PostgreSQL**  
 - Real-time collaboration, custom workflows  
 - Deployed on **AWS EC2 + S3**
 
 ### **2. Workens – Employee Monitoring Desktop App**  
 - **Electron.js** cross-platform app  
 - **Next.js** admin dashboard  
-- **FastAPI** backend (monitoring + reporting)
+- **SupaBase** backend (database + storage)
 
 ### **3. Cup Streaming – OTT Video Platform**  
 - REST APIs with **FastAPI**  
 - **AWS S3 + CloudFront** video pipeline  
-- Subscription + payment integration
+- Subscription + payment module
 
-### **4. TipTok – Social Short Video App (Backend Lead)**  
+### **4. TipTok – Social Short Video App (Backend)**  
 - Full backend in **FastAPI**  
 - Modules: Reels, PK Battles, Wallet, Gifts  
 - **Supabase + AWS S3**
